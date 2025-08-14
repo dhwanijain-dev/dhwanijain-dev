@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a  UnderGrad who is curious about tech and have a niche hands on expirience in webdevelopment <br>I am good At designing frontend and also creating them. <br>
+I'm an undergraduate student with a strong curiosity for technology and hands-on experience in web development. I have a particular interest in frontend development — not only in designing user interfaces but also in bringing them to life through code.
 
 
 ## 🌐 Socials:
